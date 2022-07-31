@@ -1,4 +1,4 @@
-# ![Happy conflaberwaffle](https://github.com/conflabermits/Scripts/blob/main/html/chrisdunaj.com/images/w00twaffle-blackbg.png?raw=true) Hello, I'm Chris! (conflabermits)
+# ![Happy conflaberwaffle](https://github.com/conflabermits/Scripts/blob/main/html/chrisdunaj.com/images/w00twaffle-blackbg.png?raw=true) Hi, I'm Chris! (conflabermits)
 
 
 ## Who am I?
